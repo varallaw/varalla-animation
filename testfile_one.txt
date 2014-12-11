@@ -1,3 +1,5 @@
 I love the hub
 
 It's quite interesting to say the least.
+
+I am practicing editing files with Git and Github
